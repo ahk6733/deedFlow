@@ -1,11 +1,11 @@
 {
-  "latestVersion": "2.5.1",
-  "releaseDate": "2026-11-09",
+  "latestVersion": "2.6.0",
+  "releaseDate": "2026-11-10",
   "releaseNotes": [
     "কমিশন ফরম যুক্ত করা হয়েছে",
     "অটোটেক্স ডাটাবেজে সুরক্ষিত থাকবে",
     "অন্যান্য পেশা দেওয়া যাবে",
     "পারফরম্যান্স অপ্টিমাইজেশন"
   ],
-  "downloadUrl": "https://github.com/ahk6733/deedFlow/releases/download/v2.5.1/DeedFlow.Setup.2.5.1.exe"
+  "downloadUrl": "https://github.com/ahk6733/deedFlow/releases/download/v2.6.0/DeedFlow.Setup.2.6.0.exe"
 }
