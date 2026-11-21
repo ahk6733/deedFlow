@@ -1,16 +1,16 @@
 {
   "app": "DeedFlow",
   "schema_version": "1.0",
-  "data_version": "20261120.8072",
-  "generated_at": "2026-11-20T09:08:38.936Z",
-  "sha256": "4c7e78aa0de9b90863bbfd9b6c62c9b3e1a9349853087b96372555b8c8676bde",
-  "size_bytes": 335872,
+  "data_version": "20261121.7652",
+  "generated_at": "2026-11-21T05:35:00.621Z",
+  "sha256": "3f4dcae2de8457d3c996166f347841358011fd0007728ee32a52b6db8d69a62e",
+  "size_bytes": 339968,
   "counts": {
     "offices": 4,
     "land_offices": 4,
     "unions": 16,
     "mouzas": 126,
     "prices": 124,
-    "writers": 15
+    "writers": 16
   }
 }
